@@ -1,0 +1,19 @@
+{
+  "name": "intersentia-software-nejs",
+  "version": "1.0.0",
+  "description": "Intersentia Software Site using Node Express Jade Stylus and MD",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MBing/ITSSoftwareNEJ.git"
+  },
+  "author": "mbing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBing/ITSSoftwareNEJ/issues"
+  },
+  "homepage": "https://github.com/MBing/ITSSoftwareNEJ#readme"
+}
