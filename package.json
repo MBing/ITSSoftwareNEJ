@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MBing/ITSSoftwareNEJ/issues"
   },
-  "homepage": "https://github.com/MBing/ITSSoftwareNEJ#readme"
+  "homepage": "https://github.com/MBing/ITSSoftwareNEJ#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "nib": "^1.1.0",
+    "stylus": "^0.52.4"
+  }
 }
