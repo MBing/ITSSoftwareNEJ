@@ -27,6 +27,9 @@
     "zepto": "0.0.4"
   },
   "devDependencies": {
-    "browser-sync": "^2.9.12"
+    "browser-sync": "^2.9.12",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-stylus": "^2.1.0"
   }
 }
